@@ -14,3 +14,18 @@ github是一个基于git的代码托管平台，付费用户可以建私人仓�
 Github 由Chris Wanstrath, PJ Hyett 与Tom Preston-Werner三位开发者在2008年4月创办。迄今拥有59名全职员工，主要提供基于git的版本托管服务。
 目前看来，GitHub这场冒险已经胜出。根据来自维基百科关于GitHub的描述，我们可以形象地看出GitHub的增长速度：
  
+#### 提交
+- [ ] 创建一个分支，在分支上进行开发。步骤：  
+       1. 右下角Git一个本地分支Local Branches 和一个远程分支Remote Branches。  
+       2. 在远程分支Check Out As 就可以new一个分支，在分支上进行你的代码操作。  
+       3. Commit,远程主分支Merge into current，选择merge，若有冲突则解决冲突，解决完后push。  
+       4. 提交代码后需要管理员决定merge。  
+     
+       
+- [ ] 不创建分支，直接在主分支上开发，步骤同上，但不需要最后一步，个人觉得有风险，所以一定要确保代码可运行。
+       
+     
+       
+      
+        
+       
